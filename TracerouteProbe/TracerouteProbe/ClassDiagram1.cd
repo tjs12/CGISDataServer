@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TracerouteProbe.Probe">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAEIAAAABAIAAkAAEYAgAYAAAAAABADAAAIAI=</HashCode>
+      <FileName>Probe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TracerouteProbe.IPNode">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAIQA=</HashCode>
+      <FileName>Traceroute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TracerouteProbe.Traceroute">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Traceroute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
